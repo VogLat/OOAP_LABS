@@ -1,0 +1,14 @@
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\bin\Debug\net6.0\OOAP_lab1.exe
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\bin\Debug\net6.0\OOAP_lab1.deps.json
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\bin\Debug\net6.0\OOAP_lab1.runtimeconfig.json
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\bin\Debug\net6.0\OOAP_lab1.dll
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\bin\Debug\net6.0\OOAP_lab1.pdb
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.AssemblyInfoInputs.cache
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.AssemblyInfo.cs
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.csproj.CoreCompileInputs.cache
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.dll
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\refint\OOAP_lab1.dll
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.pdb
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\OOAP_lab1.genruntimeconfig.cache
+E:\Унік\3 term\OOAP\OOAP_lab1\OOAP_lab1\obj\Debug\net6.0\ref\OOAP_lab1.dll
