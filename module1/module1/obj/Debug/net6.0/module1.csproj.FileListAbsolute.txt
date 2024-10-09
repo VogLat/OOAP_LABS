@@ -1,0 +1,14 @@
+E:\Унік\3_term\OOAP\module1\module1\bin\Debug\net6.0\module1.exe
+E:\Унік\3_term\OOAP\module1\module1\bin\Debug\net6.0\module1.deps.json
+E:\Унік\3_term\OOAP\module1\module1\bin\Debug\net6.0\module1.runtimeconfig.json
+E:\Унік\3_term\OOAP\module1\module1\bin\Debug\net6.0\module1.dll
+E:\Унік\3_term\OOAP\module1\module1\bin\Debug\net6.0\module1.pdb
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.AssemblyInfoInputs.cache
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.AssemblyInfo.cs
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.csproj.CoreCompileInputs.cache
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.dll
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\refint\module1.dll
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.pdb
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\module1.genruntimeconfig.cache
+E:\Унік\3_term\OOAP\module1\module1\obj\Debug\net6.0\ref\module1.dll
