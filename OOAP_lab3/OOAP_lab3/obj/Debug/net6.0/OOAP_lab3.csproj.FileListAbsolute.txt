@@ -1,0 +1,14 @@
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\bin\Debug\net6.0\OOAP_lab3.exe
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\bin\Debug\net6.0\OOAP_lab3.deps.json
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\bin\Debug\net6.0\OOAP_lab3.runtimeconfig.json
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\bin\Debug\net6.0\OOAP_lab3.dll
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\bin\Debug\net6.0\OOAP_lab3.pdb
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.AssemblyInfoInputs.cache
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.AssemblyInfo.cs
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.csproj.CoreCompileInputs.cache
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.dll
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\refint\OOAP_lab3.dll
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.pdb
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\OOAP_lab3.genruntimeconfig.cache
+E:\Унік\3_term\OOAP\OOAP_lab3\OOAP_lab3\obj\Debug\net6.0\ref\OOAP_lab3.dll

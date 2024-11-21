@@ -1,0 +1,6 @@
+Shell Sort виконано за 1 мс
+Quick Sort виконано за 199 мс
+Bubble Sort виконано за 278 мс
+Shell Sort виконано за 1 мс
+Quick Sort виконано за 202 мс
+Bubble Sort виконано за 281 мс
